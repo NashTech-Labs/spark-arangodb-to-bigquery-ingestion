@@ -72,4 +72,4 @@ keep the json file in the project directory with a file name key.json
 if --fullLoadOrIncremental full_load, then full load ingestion. For incremental, use
 --fullLoadOrIncremental incremental and --incrementLoadDeltaTime 2(it is in hour)
 
-![aa.png](..%2FDownloads%2Faa.png)
+![img_1.png](img_1.png)
